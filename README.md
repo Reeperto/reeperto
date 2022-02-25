@@ -1,4 +1,8 @@
-### ![alt text](https://i.kym-cdn.com/entries/icons/mobile/000/029/079/w_70,h_70,c_limit/hellothere.jpg)
+### Why Hello There!
+
+I make things, mostly for me and friends.
+
+- OS: ![Fedora Badge](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) and ![MacOS Badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 <!--
 **Reeperto/reeperto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
