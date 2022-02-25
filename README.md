@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![alt text](https://reeperto.github.io/DigMedPortfolio/Raster/MagazineCover.png)
-
-
 <!--
 **Reeperto/reeperto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
