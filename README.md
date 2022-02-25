@@ -1,9 +1,9 @@
-### Why Hello There!
+# Why Hello There!
 
 I make things, mostly for me and friends.
 
-## OS:
-[Fedora Badge](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![MacOS Badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+### OS:
+![Fedora Badge](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![MacOS Badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 <!--
 **Reeperto/reeperto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
