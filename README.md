@@ -1,4 +1,4 @@
-### ![alt text](https://i.kym-cdn.com/entries/icons/mobile/000/029/079/hellothere.jpg)
+### ![alt text](https://i.kym-cdn.com/entries/icons/mobile/000/029/079/w_70,h_70,c_limit/hellothere.jpg)
 
 <!--
 **Reeperto/reeperto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
