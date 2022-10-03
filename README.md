@@ -5,7 +5,7 @@ Projects of mine range from Minecraft resource and data packs to latex rendered 
 
 
 # 🛠 What I Use
-![](https://img.shields.io/badge/Windows%20Surface_pro_4-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![](https://img.shields.io/badge/2017_iMac-FFFFFF?style=for-the-badge&logo=apple&logoColor=black)
+![](https://img.shields.io/badge/2022_M2_Macbook_Pro-FFFFFF?style=for-the-badge&logo=apple&logoColor=black)
 
 
 ![Fedora Badge](https://img.shields.io/badge/Fedora-000000?style=for-the-badge&logo=fedora&logoColor=white) ![MacOS Badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)  
