@@ -8,8 +8,11 @@ Projects of mine range from Minecraft resource and data packs to latex rendered 
 ![](https://img.shields.io/badge/2022_M2_Macbook_Pro-FFFFFF?style=for-the-badge&logo=apple&logoColor=black)
 
 
-![Fedora Badge](https://img.shields.io/badge/Fedora-000000?style=for-the-badge&logo=fedora&logoColor=white) ![MacOS Badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)  
-![](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=LaTeX&logoColor=white) ![Neovim Badge](https://img.shields.io/badge/NeoVim-000000.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![MacOS Badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![Fedora Badge](https://img.shields.io/badge/Fedora-000000?style=for-the-badge&logo=fedora&logoColor=white) 
+
+![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![](https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=LaTeX&logoColor=white) 
+
+![Neovim Badge](https://img.shields.io/badge/NeoVim-000000.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 
 # 💻 GitHub Stats
