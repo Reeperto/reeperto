@@ -1,5 +1,4 @@
-![](banner.png)
-# 😊 Why Hello There!
+# Hello There!
 
 Projects of mine range from Minecraft resource and data packs to latex rendered websites to provide a central math resource for my schools. If something grabs my interest, I'll delve right into it.
 
